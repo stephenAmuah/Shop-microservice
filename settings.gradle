@@ -4,4 +4,5 @@ include 'Product-service'
 include 'Order-service'
 include 'Inventory-service'
 include 'Dic'
+include 'Discovery-server'
 
